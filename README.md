@@ -16,7 +16,7 @@ I have been making constant efforts to make a mark in the field of Computer Scie
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on different Data Science 
+- 🔭 I'm currently working on different Data Science projects
 - 🌱 I’m currently learning Deep Learning
 
 
