@@ -14,12 +14,12 @@ I have been making constant efforts to make a mark in the field of Computer Scie
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-%2327ab7e)
 ![](https://img.shields.io/badge/Web-Django-%2327ab7e)
-![](https://img.shields.io/badge/REST-APIs-Django-Rest-Framework-%2327ab7e)
+![](https://img.shields.io/badge/REST%20APIs-Django%20Rest%20Framework-%2327ab7e)
 ![](https://img.shields.io/badge/Web-Flask-%2327ab7e)
-![](https://img.shields.io/badge/Machine-Learning-SciKit-%2327ab7e)
-![](https://img.shields.io/badge/Deep-Learning-Tensorflow-%2327ab7e)
-![](https://img.shields.io/badge/Code-React-Js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-Native-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Machine%20Learning-SciKit-%2327ab7e)
+![](https://img.shields.io/badge/Deep%20Learning-Tensorflow-%2327ab7e)
+![](https://img.shields.io/badge/Frontend-React%20Js-%2327ab7e)
+![](https://img.shields.io/badge/Mobile-React%20Native-%2327ab7e)
 
 Here are some ideas to get you started:
 
