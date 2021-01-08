@@ -12,12 +12,12 @@ I have been making constant efforts to make a mark in the field of Computer Scie
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-%2327ab7e)
 
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on different Data Science projects
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning React Js, React Native
 
 
 ## &#x1f4c8; GitHub Stats
