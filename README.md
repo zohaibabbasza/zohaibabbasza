@@ -13,6 +13,13 @@ I have been making constant efforts to make a mark in the field of Computer Scie
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-%2327ab7e)
+![](https://img.shields.io/badge/Web-Django-%2327ab7e)
+![](https://img.shields.io/badge/REST APIs-Django Rest Framework-%2327ab7e)
+![](https://img.shields.io/badge/Web-Flask-%2327ab7e)
+![](https://img.shields.io/badge/Machine Learning-SciKit-%2327ab7e)
+![](https://img.shields.io/badge/Deep Learning-Tensorflow-%2327ab7e)
+![](https://img.shields.io/badge/Code-React Js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React Native-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 Here are some ideas to get you started:
 
